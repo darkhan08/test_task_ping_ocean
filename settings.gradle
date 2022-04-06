@@ -1,0 +1,2 @@
+rootProject.name='TestTaskPingOcean'
+include ':app'
